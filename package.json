@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/appmite/acgilardi/issues"
   },
-  "homepage": "https://github.com/appmite/acgilardi#readme",
-  "devDependencies": {
-    "gulp": "^3.9.0"
-  }
+  "homepage": "https://github.com/appmite/acgilardi#readme"
 }
